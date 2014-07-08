@@ -12,9 +12,6 @@
   },
   "author": "Jerome Gravel-Niquet",
   "license": "MIT",
-  "browser": {
-    "tap-event": "compose-tap-event"
-  },
   "bugs": {
     "url": "https://github.com/compose-ui/tap-event/issues"
   },
