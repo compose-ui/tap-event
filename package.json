@@ -1,6 +1,6 @@
 {
-  "name": "tap-event",
-  "version": "0.0.0",
+  "name": "compose-tap-event",
+  "version": "1.0.0",
   "description": "Make your `touchstart` event listeners into a `tap` event listener!",
   "main": "index.js",
   "scripts": {
